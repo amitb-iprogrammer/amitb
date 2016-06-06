@@ -1,0 +1,17 @@
+106 Branch.
+
+#2171 issue w/ IE 11 property page buttons broken ( On Live Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2171 => Released.
+
+#2052 RD Admin - branded results page ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2052 => Ready for Signoff.
+
+#2165 issue w/ age dropdown ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2165 => Ready for Signoff.
+
+#2153 RD Force HTTPS/SSL on all requests ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2153 => In Testing.
