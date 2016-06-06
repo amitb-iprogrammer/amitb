@@ -1,1 +1,19 @@
 106 test.
+
+#2166 fix calendar on index page ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2166 => Ready for Signoff.
+
+#2214 MYSTQ Content ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2214 => In Development.
+
+#2167 update Hotel Policies ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2167 => In Testing.
+
+6th June 2016
+
+#2275 RD Desktop - Loader in my reservation ( On Dev Server ).
+
+https://partnerfusion.mingle.thoughtworks.com/projects/reservationdesk_com/cards/2275 => Ready for Signoff.
